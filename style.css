@@ -1,0 +1,22 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    width: 250px;
+    height: 25px;
+    text-align: center !important;
+}
+#footer{
+    margin: 200px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#backbutton{
+    float: right;
+}
